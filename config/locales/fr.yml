@@ -1,0 +1,10 @@
+# French strings go here for Rails i18n
+fr:
+    field_hours: Jours
+    field_estimated_hours: Temps estimé
+    label_f_hour: "%{value} jour"
+    label_f_hour_plural: "%{value} jours"
+    text_destroy_time_entries_question: "%{hours} jours ont été enregistrées sur les demandes à supprimer. Que voulez-vous faire ?"
+    text_destroy_time_entries: Supprimer les jours
+    text_assign_time_entries_to_project: Reporter les jours sur le projet
+    text_reassign_time_entries: 'Reporter les jours sur cette demande:'
